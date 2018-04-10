@@ -1,0 +1,25 @@
+7  8
+Moti Jhorna Lane
+WASA Circle
+2  8
+Moti Jhorna Lane
+Ispahani Circle
+1  7
+Ispahani Circle
+WASA Circle
+1  5
+WASA Circle
+Almas Cinema
+0  8
+Almas Cinema
+Kazir Dewri Bazar
+0  6
+Kazir Dewri Bazar
+Jamal Khan Circle
+2  15
+Jamal Khan Circle
+Chittagong College
+1  10
+Ispahani Circle
+Kazir Dewri Bazar
+1  4

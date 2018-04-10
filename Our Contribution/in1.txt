@@ -1,0 +1,31 @@
+9  10
+Hatirpul Circle
+Katabon Circle
+2  13
+Katabon Circle
+Nilkhet Circle
+1  9
+Nilkhet Circle
+Nilkhet Bus Stop
+0  5
+Nilkhet Bus Stop
+Azimpur Bus Stand
+1  11
+Azimpur Bus Stand
+Palashi Circle
+1  6
+Nilkhet Circle
+Palashi Circle
+1  7
+Palashi Circle
+Shahid Minar Circle
+0  8
+Shahid Minar Circle
+Bakshi Bazar
+1  6
+Palashi Circle
+Bakshi Bazar
+1  10
+Palashi Circle
+Lalbagh Circle
+3  15
